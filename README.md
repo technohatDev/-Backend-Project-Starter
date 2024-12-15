@@ -3,8 +3,7 @@
 [![developed_by 16.18.0](https://img.shields.io/badge/developed_by-Ammar_Yaser-blue.svg)](http://ammaryaser.com/)
 
 \
-![Cover](https://github.com/ammarbasuony/Backend-Project-Starter/blob/main/Docs/images/Cover.png?raw=true)
-
+![Cover](https://github.com/technohatDev/Backend-Project-Starter/blob/main/Docs/images/Cover.png?raw=true)
 
 # 🚀 Backend Project Starter
 
@@ -16,7 +15,7 @@
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-‎ 
+‎
 
 ## 🪚 This Project Built Using
 
@@ -29,7 +28,7 @@
 - [React](https://reactjs.org/)\
   A JavaScript library for building user interfaces
 
-‎ 
+‎
 
 ## 📁 Project Structure
 
@@ -47,7 +46,7 @@ It's devided into 3 main folders and a Postman collection:
 
 This is useful in case you want to use the backend code in another project, or the frontend code in another project.
 
-‎ 
+‎
 
 ## 📚 Documentation
 
@@ -56,10 +55,12 @@ The project documentation is available in:
 - [Frontend Documentation](https://github.com/ammarbasuony/Backend-Project-Starter/blob/main/Docs/Backend-Documentation.md)
 - [Backend Documentation](https://github.com/ammarbasuony/Backend-Project-Starter/blob/main/Docs/Backend-Documentation.md)
 
-‎ 
+‎
 
 ---
-‎ 
+
+‎
+
 ## 📫 Contact Me
 
 If you'd like to get in touch, feel free to reach out to me at\
