@@ -52,8 +52,8 @@ This is useful in case you want to use the backend code in another project, or t
 
 The project documentation is available in:
 
-- [Frontend Documentation](https://github.com/ammarbasuony/Backend-Project-Starter/blob/main/Docs/Backend-Documentation.md)
-- [Backend Documentation](https://github.com/ammarbasuony/Backend-Project-Starter/blob/main/Docs/Backend-Documentation.md)
+- [Frontend Documentation](https://github.com/technohatDev/Backend-Project-Starter/blob/main/Docs/Backend-Documentation.md)
+- [Backend Documentation](https://github.com/technohatDev/Backend-Project-Starter/blob/main/Docs/Backend-Documentation.md)
 
 ‎
 
