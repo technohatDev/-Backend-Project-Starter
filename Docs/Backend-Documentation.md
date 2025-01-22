@@ -3,7 +3,7 @@
 [![developed_by 16.18.0](https://img.shields.io/badge/developed_by-Ammar_Yaser-blue.svg)](http://ammaryaser.com/)
 
 \
-![Cover](https://github.com/ammarbasuony/Backend-Project-Starter/blob/main/Docs/images/Cover.png?raw=true)
+![Cover](https://github.com/technohatDev/Backend-Project-Starter/blob/main/Docs/images/Cover.png?raw=true)
 
 
 # ⚙️ Backend Setup
